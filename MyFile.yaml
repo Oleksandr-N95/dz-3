@@ -1,0 +1,25 @@
+student:
+  firstName: John
+  lastName: Simon
+  age: 20
+  married: false
+  studentId: null
+    address:
+      country: USA
+      city": Boston
+    exams: [phylosophy, astrology]
+    exams: 
+    - history
+    - economics
+        phylosophy:
+          professor: Rogers,
+          exam" : true
+        astrology:
+          professor: Stevens,
+          exam" : false
+        history:
+          professor: Brown,
+          exam: true
+        economics:
+          professor: Richards,
+            exam: false

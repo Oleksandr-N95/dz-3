@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <root>
+        <firstName>John</firstName>
+        <lastName>Simon</lastName>
+        <age>20</age>
+        <married>false</married>
+        <studentId>null</studentId>
+        <address>
+            <country>USA</country>
+            <city>Boston</city>
+        </address>
+        <examslist>
+            <exams>
+                <name>phylosophy</name>
+                <professor>Rogers</professor>
+                <exam>true</exam>
+            </exams>
+            <exams>
+                <name>astrology</name>
+                <professor>Stevens</professor>
+                <exam>false</exam>
+            </exams>
+            <exams>
+                <name>history</name>
+                <professor>Brown</professor>
+                <exam>true</exam>
+            </exams>
+            <exams>
+                <name>economics</name>
+                <professor>Richards</professor>
+                <exam>false</exam>
+            </exams>
+        </examslist>
+    </root>
+</xml>

@@ -1,0 +1,33 @@
+{
+    "firstName": "John",
+    "lastName": "Simon",
+    "age": 20,
+    "married": false,
+    "studentId": null,
+    "address": {
+    "country": "USA",
+    "city": "Boston"
+    },
+    "exams": [
+        {
+            "name": "phylosophy",
+            "professor": "Rogers",
+            "exam" : true
+        },
+        {
+            "name": "astrology",
+            "professor": "Stevens",
+            "exam": false
+        },
+        {
+            "name": "history",
+            "professor": "Brown",
+            "exam": true
+        },
+        {
+            "name": "economics",
+            "professor": "Richards",
+            "exam": false
+        }
+    ]
+   }
