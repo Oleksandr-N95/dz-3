@@ -4,22 +4,23 @@ student:
   age: 20
   married: false
   studentId: null
-    address:
-      country: USA
-      city": Boston
-    exams: [phylosophy, astrology]
-    exams: 
-    - history
-    - economics
-        phylosophy:
-          professor: Rogers,
-          exam" : true
-        astrology:
-          professor: Stevens,
-          exam" : false
-        history:
-          professor: Brown,
-          exam: true
-        economics:
-          professor: Richards,
-            exam: false
+  address:
+    country: USA
+    city: Boston
+  exams: 
+    subject1:
+      name: phylosophy
+      professor: Rogers
+      exam: true
+    subject2:
+      name: astrology
+      professor: Stevens
+      exam : false
+    subject3:
+      name: history
+      professor: Brown
+      exam: true
+    subject4:
+      name: economics
+      professor: Richards
+      exam: false
